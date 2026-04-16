@@ -223,7 +223,7 @@ Notable technical choices:
 
 ## A Note on How This Was Built
 
-MRN was built in close collaboration with Claude, Anthropic's large language model, used as a pair-programming and product-thinking partner throughout. I directed the product vision, made every product and design decision documented in this README, defined the data model and user flows, and tested every feature. Claude accelerated implementation, helped me stress-test edge cases, surfaced issues I wouldn't have caught alone, and acted as a sounding board on architectural choices.
+MRN was built in close collaboration with Claude, Anthropic's LLM, used as a pair-programming and product-thinking partner throughout. I directed the product vision, made every product and design decision documented in this README, defined the data model and user flows, and tested every feature. Claude accelerated implementation, helped me stress-test edge cases, and acted as a sounding board on architectural choices.
 
 I believe AI-assisted development is a force multiplier for product managers who want to build real working software to validate their ideas. Being transparent about how I built MRN matters more to me than claiming solo authorship. The judgment calls, tradeoffs, and product decisions are mine. The velocity is ours.
 
