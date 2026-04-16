@@ -47,7 +47,7 @@ The platform's defining constraint: **insiders are the scarce resource.** Every 
 </p>
 
 <p align="center">
-  <em>Left: Onboarding role selection (Insider, Seeker, or Both). Center: Company directory showing live insider counts, halal-friendly tags, and prayer room indicators. Right: Full seeker profile with trust badges, job preferences, and education history.</em>
+  <em>Left: Onboarding role selection (Insider, Seeker, or Both). Center: Company directory showing live insider counts, halal-friendly tags, and indicators. Right: Full seeker profile with trust badges, job preferences, and education history.</em>
 </p>
 
 <br />
